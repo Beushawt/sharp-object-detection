@@ -39,7 +39,12 @@ Penelitian ini berfokus pada deteksi objek tajam seperti pisau menggunakan model
 ## 🎥 Video Presentation
 Penjelasan lengkap mengenai metode dan hasil eksperimen dapat dilihat pada video berikut:
 
-👉 **[Link Video Presentasi]()**
+👉 **[Link Video Presentasi](https://youtu.be/rZNLS1y1wmI)**
+
+## 🚀 Streamlit
+Hasil model obeject detection dapat dilihat pada link berikut:
+
+👉 **[Link Streamlit](https://huggingface.co/spaces/lalakinan/yolo-sharp-object-detection)**
 
 ## 📂 Project Structure
 - notebooks/ -> Google Colab notebooks
